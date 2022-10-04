@@ -5,8 +5,8 @@
 <p align="center">Software Engineering Student at <a href="https://www.betrybe.com/">Trybe</a> </p>
   
   <a href="https://github.com/istvanoliva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=istvanoliva&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="istvanoliva" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvanoliva&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 
