@@ -6,7 +6,7 @@
   
   <a href="https://github.com/istvanoliva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=istvanoliva&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="istvanoliva" />
-  
+<p > <img src="https://komarev.com/ghpvc/?username=Istvanoliva&label=Profile%20views&color=0e75b6&style=flat" alt="istvanoliva" /> </p>
 </div>
 
 
