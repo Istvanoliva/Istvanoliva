@@ -5,6 +5,7 @@
 <p align="center">Software Engineering Student at <a href="https://www.betrybe.com/">Trybe</a> </p>
   <a href="https://github.com/istvanoliva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvanoliva&layout=compact&langs_count=8&theme=dark"/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=istvanoliva&label=Profile%20views&color=0e75b6&style=flat" alt="istvanoliva" /> </p>
 </div>
 
 
@@ -12,7 +13,7 @@
 
 <div align="center">
   <a href="https://nodejs.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="57" alt="nodejs logo"  />
   </a>
   <a href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -28,7 +29,7 @@
   <img alt="" height="50px" width="60px"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
   </a>
   <a href="https://www.docker.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" width="72" alt="docker logo"  />
   </a>
   <a href="https://www.mysql.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
@@ -66,6 +67,10 @@
   <img alt="" height="50px" width="60px" src="https://testing-library.com/img/octopus-128x128.png" /></a>
   
   
+</div>
+<div align="center">
+  <h3>Lerarning ...</h3>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
 </div>
   
   <h3 align="center">Connect with me:</h3>
