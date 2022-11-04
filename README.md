@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Istvan Oliva</h1>
 <div align="center">
   
-  <h3 align="center">A passionate backend developer from Brazil</h3>
+  <h3 align="center">A passionate Software developer from Brazil</h3>
 <p align="center">Software Engineering Student at <a href="https://www.betrybe.com/">Trybe</a> </p>
   <a href="https://github.com/istvanoliva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvanoliva&layout=compact&langs_count=8&theme=dark"/>
