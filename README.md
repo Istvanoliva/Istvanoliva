@@ -43,6 +43,9 @@
   <a href="https://jestjs.io/pt-BR/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+</div>
 </div>
 
 <h3 align="center">Frontend Tools</h3>
@@ -66,12 +69,6 @@
   <a href="https://testing-library.com/docs/react-testing-library/intro/">
   <img alt="" height="50px" width="60px" src="https://testing-library.com/img/octopus-128x128.png" /></a>
   
-  
-</div>
-<div align="center">
-  <h3>Learning ...</h3>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-</div>
   
   <h3 align="center">Connect with me:</h3>
   
