@@ -1,12 +1,35 @@
 <h1 align="center">Hi 👋, I'm Istvan Oliva</h1>
 <div align="center">
   
-  <h3 align="center">A passionate Software developer from Brazil</h3>
+  <h3 align="center">A passionate Front-end developer from Brazil</h3>
 <p align="center">Software Engineering Student at <a href="https://www.betrybe.com/">Trybe</a> </p>
   <a href="https://github.com/istvanoliva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvanoliva&layout=compact&langs_count=8&theme=dark"/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=istvanoliva&label=Profile%20views&color=0e75b6&style=flat" alt="istvanoliva" /> </p>
 </div>
+  
+<h3 align="center">Frontend Tools</h3>
+
+<p align="center">
+</p>
+  
+  <div align="center"><br/>
+  <a href="https://git-scm.com/">
+  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://pt-br.reactjs.org/">
+  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://redux.js.org/">
+  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/">
+  <img alt="" height="50px" width="60px" src="https://testing-library.com/img/octopus-128x128.png" /></a>
+  <a href="https://jestjs.io/pt-BR/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  </a>
+  
 
 
 <h3 align="center">Backend Tools</h3>
@@ -40,35 +63,10 @@
   <a href="https://mochajs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="52" alt="mocha logo"  />
   </a>
-  <a href="https://jestjs.io/pt-BR/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
 </div>
 </div>
-
-<h3 align="center">Frontend Tools</h3>
-
-
-
-<p align="center">
-</p>
-  
-  <div align="center"><br/>
-  <a href="https://git-scm.com/">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://pt-br.reactjs.org/">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="https://redux.js.org/">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/">
-  <img alt="" height="50px" width="60px" src="https://testing-library.com/img/octopus-128x128.png" /></a>
-  
   
   <h3 align="center">Connect with me:</h3>
   
