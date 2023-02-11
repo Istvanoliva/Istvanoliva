@@ -2,7 +2,7 @@
 <div align="center">
   
   <h3 align="center">A passionate Front-end developer from Brazil</h3>
-<p align="center">Software Engineering Student at <a href="https://www.betrybe.com/">Trybe</a> </p>
+
   <a href="https://github.com/istvanoliva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvanoliva&layout=compact&langs_count=8&theme=dark"/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=istvanoliva&label=Profile%20views&color=0e75b6&style=flat" alt="istvanoliva" /> </p>
