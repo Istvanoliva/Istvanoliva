@@ -1,41 +1,17 @@
 <h1 align="center">Hi 👋, I'm Istvan Oliva</h1>
 <div align="center">
   
-  <h3 align="center">A passionate Front-end developer from Brazil</h3>
-  <h4><a href="https://istvanoliva.vercel.app/">Portfólio</a></h4>
-
+  <h3 align="center">Analista de dados</h3>
+  
   <a href="https://github.com/istvanoliva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istvanoliva&layout=compact&langs_count=8&theme=dark"/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=istvanoliva&label=Profile%20views&color=0e75b6&style=flat" alt="istvanoliva" /> </p>
 </div>
   
-<h3 align="center">Frontend Tools</h3>
-
 <p align="center">
 </p>
   
-  <div align="center"><br/>
-  <a href="https://git-scm.com/">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://pt-br.reactjs.org/">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="https://redux.js.org/">
-  <img alt="" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/">
-  <img alt="" height="50px" width="60px" src="https://testing-library.com/img/octopus-128x128.png" /></a>
-  <a href="https://jestjs.io/pt-BR/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  </a>
-  
-
-
-<h3 align="center">Backend Tools</h3>
-
-<div align="center">
+ <div align="center">
   <a href="https://nodejs.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="57" alt="nodejs logo"  />
   </a>
@@ -44,9 +20,6 @@
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  </a>
-  <a href="https://expressjs.com/pt-br/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   </a>
   <a href="https://www.mongodb.com/"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -57,16 +30,29 @@
   </a>
   <a href="https://www.mysql.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  </a>
-  <a href="https://sequelize.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
-  </a>  
-  <a href="https://mochajs.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="52" alt="mocha logo"  />
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    
 </div>
+</div>
+  
+
+<div align="center">
+  <br>
+  <br>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="52" height="52"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="52" height="52"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="52" height="52"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="52" height="52"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="52" height="52"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="52" height="52"/> </a> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="52" height="52"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="52" height="52"/> </a> </p>
+  
 </div>
   
   <h3 align="center">Connect with me:</h3>
